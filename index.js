@@ -1,1 +1,4 @@
-console.log('Hello World!');
+require("@babel/register");
+require("@babel/polyfill");
+
+require("./app.js");

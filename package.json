@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/Kalita-Roman/mail-sender/issues"
   },
-  "homepage": "https://github.com/Kalita-Roman/mail-sender#readme"
+  "homepage": "https://github.com/Kalita-Roman/mail-sender#readme",
+  "dependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/polyfill": "^7.12.1",
+    "@babel/preset-env": "^7.12.11",
+    "@babel/register": "^7.12.10"
+  }
 }
