@@ -21,6 +21,7 @@
     "@babel/core": "^7.12.10",
     "@babel/polyfill": "^7.12.1",
     "@babel/preset-env": "^7.12.11",
-    "@babel/register": "^7.12.10"
+    "@babel/register": "^7.12.10",
+    "nodemailer": "^6.4.17"
   }
 }
